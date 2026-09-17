@@ -5,7 +5,7 @@
 #include <time.h>
 
 // config
-#define SHOW_SECRET 1
+#define SHOW_SECRET 0
 #define LINE_LENGTH 48
 
 // functions
